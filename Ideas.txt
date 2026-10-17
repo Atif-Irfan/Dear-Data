@@ -1,0 +1,4 @@
+This holds a list of potential ideas I could work on.
+
+One idea will be chosen and will therefore have data points
+and a processing diagram made out of it.
