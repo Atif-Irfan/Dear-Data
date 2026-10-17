@@ -2,3 +2,12 @@ This holds a list of potential ideas I could work on.
 
 One idea will be chosen and will therefore have data points
 and a processing diagram made out of it.
+
+
+----------
+
+What could I possibly want to know and explore?
+
+1. How much money do I spend within games?
+2. Do I enjoy studying?
+3. What youtube videos am I more likely to watch/listen to?
