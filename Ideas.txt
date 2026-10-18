@@ -17,12 +17,10 @@ Chosen data query to explore: What youtube videos am I more likely to watch/list
 
 Sub questions:
 
-1. What channels do I happen to frequent towards?
+1. What genres/tags do they fall under?
 
-2. What genres/tags do they fall under?
+2. What are the lengths of the videos?
 
-3. What are the lengths of the videos?
-
-4. Do I watch/listen all the way till the end?
+3. Do I watch/listen all the way till the end?
 
 ----------
