@@ -9,11 +9,11 @@ What could I possibly want to know and explore?
 
 1. How much money do I spend within games?
 2. Do I enjoy studying?
-3. What youtube videos am I more likely to watch/listen to?
+3. What YouTube videos am I more likely to watch/listen to?
 
 ----------
 
-Chosen data query to explore: What youtube videos am I more likely to watch/listen to?
+Chosen data query to explore: What YouTube videos am I more likely to watch/listen to?
 
 Sub questions:
 
@@ -43,11 +43,11 @@ theirs where the data is purely tracked retrospectively.
 
 3. Is it meaningful?
 
-Yes, it provides a deep understanding of how I approach my own personalised youtube algorithm.
+Yes, it provides a deep understanding of how I approach my own personalised YouTube algorithm.
 
-4. Does it maintain anonyminity?
+4. Does it maintain anonymity?
 
-Yes, the content outlined and the various behavioural decicions logged keep the query vague
+Yes, the content outlined and the various behavioural decisions logged keep the query vague
 enough that it cannot be found out exactly what channels I watch.
 
 5. Is it numerous?
