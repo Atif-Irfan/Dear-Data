@@ -24,3 +24,33 @@ Sub questions:
 3. Do I watch/listen all the way till the end?
 
 ----------
+
+Evaluation of the suitability of the data query:
+
+1. Is it feasible?
+
+Yes this data query can be researched and represented with the given time and resources.
+It is free and remote.
+
+2. Is it original?
+
+Yes, however the idea comes from a similar foundation to week 27 and partially from week 41
+in the "Dear Data" project by Giorgia Lupi and Stefanie Posavec.
+
+The nature of my data query explores my: psychological habits, triggers
+and preferences. This makes my approach analytical and predictable in comparison to
+theirs where the data is purely tracked retrospectively.
+
+3. Is it meaningful?
+
+Yes, it provides a deep understanding of how I approach my own personalised youtube algorithm.
+
+4. Does it maintain anonyminity?
+
+Yes, the content outlined and the various behavioural decicions logged keep the query vague
+enough that it cannot be found out exactly what channels I watch.
+
+5. Is it numerous?
+
+It WILL be once all data is recorded. My activity on youtube is high so, I got more than enough
+data to work with.
