@@ -3,7 +3,6 @@ This holds a list of potential ideas I could work on.
 One idea will be chosen and will therefore have data points
 and a processing diagram made out of it.
 
-
 ----------
 
 What could I possibly want to know and explore?
@@ -11,3 +10,19 @@ What could I possibly want to know and explore?
 1. How much money do I spend within games?
 2. Do I enjoy studying?
 3. What youtube videos am I more likely to watch/listen to?
+
+----------
+
+Chosen data query to explore: What youtube videos am I more likely to watch/listen to?
+
+Sub questions:
+
+1. What channels do I happen to frequent towards?
+
+2. What genres/tags do they fall under?
+
+3. What are the lengths of the videos?
+
+4. Do I watch/listen all the way till the end?
+
+----------
