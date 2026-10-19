@@ -54,3 +54,23 @@ enough that it cannot be found out exactly what channels I watch.
 
 It WILL be once all data is recorded. My activity on youtube is high so, I got more than enough
 data to work with.
+
+----------
+
+Planning for Data Gathering and Representation:
+
+1. How will I source this data?
+
+This will be explained more in detail in the text file where the data sourcing and records will be stored.
+The main idea is taking the number of videos YouTube has indexed into my watch history 'V', and generating
+a random number X that will be the starting position of an indexed video (counting from top to bottom) such
+that 0 ≤ X ≤ V.
+
+2. How will I record this data?
+
+I will be using excell to record the data points of the videos logged through the proposed sourcing
+strategy.
+
+3. What programming language will I use?
+
+This data will be represented through processing as required by the Creative Coding module.
