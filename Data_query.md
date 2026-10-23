@@ -12,6 +12,12 @@ This will be the main file to hold everything associated with the data sourcing 
 
 3. Do I watch/listen all the way till the end?
 
-# The Function To Source Data Without Bias
+# Sourcing Unbiased Data Points
 
-Explanation for data sourcing will be shown here later...
+- I will find out the total number of videos indexed in my YouTube search history.
+- The total number of videos will be used to find an interval for choosing videos
+going down the search history.
+- After this interval is found, a random starting position will be chosen between 
+1 and the interval number.
+- After the interval and starting position are found, a function can be defined
+to systematically sample videos through intervals without bias.
