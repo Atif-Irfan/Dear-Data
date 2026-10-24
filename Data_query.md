@@ -2,7 +2,9 @@
 
 This will be the main file to hold everything associated with the data sourcing and recording.
 
-## Chosen data query to explore: What YouTube videos am I more likely to watch/listen to?
+## Chosen data query to explore: 
+
+What YouTube videos am I more likely to watch/listen to?
 
 ## Sub Questions
 
@@ -21,3 +23,11 @@ going down the search history.
 1 and the interval number.
 - After the interval and starting position are found, a function can be defined
 to systematically sample videos through intervals without bias.
+
+<img src="Equations.jpg" width="380" height="400">
+
+## I = Interval
+## V (t) = Total number of videos
+## V (0) = Position of first video
+## p = Position
+## Vp + 1 = Next video position
