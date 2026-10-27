@@ -64,3 +64,19 @@ floor(394.07) = 393
 <img src="Final_Equation.png" width="380" height="auto">
 
 ---
+
+# HOW TO SELECT EACH VIDEO PER INTERVAL?
+
+Google has a "find and edit" feature that lets you put in a keyword to see how many instances of said word appears. Due to how many videos the watch history file holds, this feature is inneficient for 2 reasons.
+
+1. It takes too long to get to the next video position. It only lets you click and go up by 1 instance each time.
+
+2. The keyword doesn't account for the specific element it is tied to. This means it will capture the keyword "Watched" for not just the block title, but also the title of the video (which we don't want).
+
+## How to work around this?
+
+Using inspect element I can access Chrome DevTools to query and search for an exact index rather than having to continously click for 1 increment after another. This requires using a js script written to do exactly as stated.
+
+<img src="Find_js_script.png" width="380" height="auto">
+
+This script will be copy and pasted with each of the next positions entered in on the console in inspect element. This will be carried out until 100 data points are recorded.
