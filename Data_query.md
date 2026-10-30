@@ -80,3 +80,9 @@ Using inspect element I can access Chrome DevTools to query and search for an ex
 <img src="Find_js_script.png" width="380" height="auto">
 
 This script will be copy and pasted with each of the next positions entered in on the console in inspect element. This will be carried out until 100 data points are recorded.
+
+# HOW I AUTOMATED THE ITERATIVE CALCULATIONS
+
+<img src="Automated_Iteration.png" width="380" height="auto">
+
+I passed the image of the final equation into Google Gemini and prompted it to iterate through the equation 99 times. This saves time having to manually calculate the indexes over and over.
