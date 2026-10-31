@@ -86,3 +86,5 @@ This script will be copy and pasted with each of the next positions entered in o
 <img src="Automated_Iteration.png" width="380" height="auto">
 
 I passed the image of the final equation into Google Gemini and prompted it to iterate through the equation 99 times. This saves time having to manually calculate the indexes over and over.
+
+After all videos were sampled, 8 are no longer available for various reasons. To get these 8 I will just randomly generate a number between 1 and 39,347 as the equation will no longer work. These 8 videos will just be added into the spreadsheet.
